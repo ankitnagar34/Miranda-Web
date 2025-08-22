@@ -1,19 +1,27 @@
-# Miranda Web Project – Animated GSAP Showcase
-Its main goal is to demonstrate advanced animation skills using GSAP while capturing the design vibe of the Miranda website.
+# Miranda Web Project – Animated GSAP Showcase  
 
+The main goal of this project is to demonstrate **advanced animation skills using GSAP** while capturing the sleek design vibe of the **Miranda website**.  
 
-Live Demo:(https://bhuvan-shivhare.github.io/Miranda-web/) 
+🔗 **Live Demo:** [Click Here](https://ankitnagar9211.github.io/Miranda-web/)  
 
+---
 
-## About The Project
+## 📌 About The Project  
 
-This project is a creative exploration of web animations and user interface design. By leveraging the power of [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/), I have developed smooth, high-performance animations that enhance the user experience.
+This project is a **creative exploration of web animations and UI/UX design**.  
+By leveraging the power of [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/), I built smooth, high-performance animations that **enhance user interactivity** and **deliver a modern design feel**.  
 
- Key Features:
-- Smooth Animations:** Advanced animations using GSAP.
-- Responsive Design:** Seamless experience across devices.
-- Modern UI/UX: Inspired by the Miranda website for a clean, contemporary look.
+### ✨ Key Features:  
+- **Smooth Animations:** Advanced transitions and motion effects using GSAP.  
+- **Responsive Design:** Works seamlessly across desktops, tablets, and mobiles.  
+- **Modern UI/UX:** Inspired by the Miranda website, with a **minimal and contemporary look**.  
 
+---
 
-To run this project locally, all you need is a modern web browser. If you want to tweak the code, you can use any code editor (such as [VS Code](https://code.visualstudio.com/)).
+## 🚀 Run Locally  
+
+To run this project locally:  
+1. Clone the repository.  
+2. Open the `index.html` file in any modern web browser.  
+3. For code editing, use [VS Code](https://code.visualstudio.com/) or your favorite editor.  
 
